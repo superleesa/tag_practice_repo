@@ -1,0 +1,11 @@
+[project]
+name = "tag_practice_repo"
+version = "0.1.0"
+description = "tag_practice_repo for v0.1.0"
+authors = [
+    {name = "Mock User",email = "mockuser@gmail.com"}
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
